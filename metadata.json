@@ -1,0 +1,8 @@
+{
+  "name": "Petualang Cilik SD - Game Edukasi Pintar",
+  "description": "Game petualangan edukatif interaktif untuk anak-anak Sekolah Dasar (SD). Belajar matematika, sains, bahasa, dan pengetahuan umum dengan seru, penuh tantangan dan hadiah bintang!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
